@@ -18,7 +18,7 @@
 this is an application for a day planner.
 
   <p align="right">(<a href="#top">back to top</a>)</p>
-  
+
   ## Installation Instructions
   
   load webpage in local browser
@@ -38,9 +38,11 @@ this is an application for a day planner.
   ## Contributors
   my buddies steve and justin helped me
   <p align="right">(<a href="#top">back to top</a>)</p>
+
   ## Testing
   contact me for testing
   <p align="right">(<a href="#top">back to top</a>)</p>
+  
   ## Questions
   Github: [shman-dee](https://github.com/shman-dee)<br/>
   
