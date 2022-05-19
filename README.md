@@ -15,14 +15,13 @@
   
   ## Description
 
-[Click here to view the demo](https://drive.google.com/file/d/1MMCl60IcBdSA57klvCJ2LmNJxol8fFLO/view?usp=sharing).
-
-this is an application for building a team portfolio through the CLI.
+this is an application for a day planner.
 
   <p align="right">(<a href="#top">back to top</a>)</p>
+  
   ## Installation Instructions
   
-  to install: clone repo, change into the working directory, and finally run npm install
+  load webpage in local browser
   
   <p align="right">(<a href="#top">back to top</a>)</p>
   
